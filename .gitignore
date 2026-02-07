@@ -1,0 +1,18 @@
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# ML models
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Data
+data/
+datasets/
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
